@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spotify-application-356414",
+  "private_key_id": "50642f393b1a1b50e40952f42600dca770bb3ef6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5G+u+Ml4CrPdb\nDVOWoMrtwaE37hh9r1DjdeCA3W0TZwP4o8wb4rrXAY3Ws6PZmkRRUEpgXfFzhCWY\nEvOOwutR+xF7l88seAYNMVv2V9x4Us8KWD/AZ46P8q4R9efG2N/A6QLgTfQxWTnc\nSMK9ZUHQf4fp6AksACvojSvxpu6mGKgrkcN1tbEXSTTWc/1De9uFMbRbPln/khDt\n3cW/zU5X5jmaBxcokqrPty5rW9gMkFMNeVW8WQuh5x5drpgUnqO5Z8LkyEUe16HV\nVinFfOM1jtjxFAu17BrfeS0tTfdbMgUTOXoxEPdMwXca2GxkocS24Uo9KDN3Kf74\n238HbNxFAgMBAAECggEAAnEYWH9wlwdyEdzoo92GH8HEnyjAYPQNlJqK9hg1pqJe\nvopmmF2SymBGXzUqbaXnzczJ1mCW3Ue6eTmSxejTUtcFgYRcosEIj2b9yA+bpGiv\nO3sziBW1nzd7zVfZkVluBizssUnF9VqwdTPugbISvq3X/KFncZGlAqHOGRdzIXS/\nCiyTS0esDnppWpgFt0f7yDPdqW9kgOmzjfbjpHEZnF4a6Z9RdQ04iY//ZizcMGVJ\nYzNawuYqcdp9CcX9n9OMH0SyjykXf2YHzCwTqXP68fEjTKF8Zr5UvRA6lDHNXz7O\ni/21FV/x9u1CtGMfULihnBZ1v0GIk179VpcXbZgq0QKBgQDvjeZLQ8ZumwEJ3411\nCzs901T06zxVbpokvq+4dJ1Bwn82pS5lhBeJ1yMfMbYkaPtz1EevbPnEVDDOujN+\nFG7V/xlIMmxBT0mDASOz4YZM03A/3dChBTyuKpgV3g0pSHDOJHKyAQAhV8aOmWv+\n63hdkgW4Rj7LSlSUlCsINhmTuQKBgQDF0SlU/8BfUCsyg5i1JA6NWlBG01d30QTQ\nTKk1UhMpUTrOU6+oNH42NUYKu2vZd506SRzuozJ2O9D+kiYk3QuLJ3tkrW28TKjc\nlcCAZOIvWtcDKA5AuHa414kZjZ9lrNW1cBuZhhThizJkicQrMAjhFSR3P9LNoE2U\nkUbj4njq7QKBgBXCfPW/PUoUuF5uOQo1r/bouGHa8EsOVeAalhmaNiKgCTAshu9f\ntUenDCCsQlBCXPzjfnN34aQsxZYxobXFI2A64NAHDIBONG4670RKqwlVd2/FtUq7\nEAz9/3yVA/sJAn4nH2f94UYmE/omA4JPX0qYlf5sGw4aPV6Vqub/Cwm5AoGANaYq\nXYEXPUJS1NpX2hizUabCytKakEZB1fRUl79wru320upjY20JJc6A9nwqHcqQ+7PE\ngvwDvYkvfztH2QuSC+VjU8StVDo+OcTrdmbl6Q3r7lE4vFjK6gqahjGgn0SmmRSU\nh6iTlS/ZNOcgKs5WOiUvxJ+snlPxdm+IGFndjWkCgYEAh9SVRLMpQRZsPfDFSz4i\n0Xn2Y6YTKrOAGfc2p5oi9re4lTebCbhYjCdxDb4AYqIG1DqRjZANk3Ia/yQrw6vF\nQPncYed4SIU1hGQKsyRUldjh136pst8ubQoggKDCNFMUsWwWPHVGTJ8jFhDK5Uao\nJd78xN0H76A1cbU2m2bqSIs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-agent@spotify-application-356414.iam.gserviceaccount.com",
+  "client_id": "101042019887240222524",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-agent%40spotify-application-356414.iam.gserviceaccount.com"
+}
