@@ -2,6 +2,9 @@ locals {
   function_name = var.create_function ? google_cloudfunctions_function.function[0].name : ""
   trigger_url   = var.create_function ? google_cloudfunctions_function.function[0].https_trigger_url : ""
   count         = var.create_function ? 1 : 0
+  env_vars = merge(var.env_vars, {
+    IS_CLOUD = "1"
+  })
 }
 
 # Zip and upload function code to bucket
@@ -26,7 +29,7 @@ resource "google_cloudfunctions_function" "function" {
   available_memory_mb   = var.available_memory_mb
   max_instances         = var.max_instances
   min_instances         = var.min_instances
-  environment_variables = var.env_vars
+  environment_variables = local.env_vars
   entry_point           = var.entry_point
   source_archive_bucket = module.function_bucket.bucket_name
   source_archive_object = module.function_bucket.object_name
